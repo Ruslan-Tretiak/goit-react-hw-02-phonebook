@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { nanoid } from 'nanoid';
-import { FormContainer, FormLabel, FormInput, FormButton, FormButtonDisabled, ErrorMessage } from './ContactForm.styled';
+// import { nanoid } from 'nanoid';
+import { FormContainer, FormLabel, FormInput, FormButton} from './ContactForm.styled';
 
 export class ContactForm extends Component {
   state = {

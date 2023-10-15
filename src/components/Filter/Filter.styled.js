@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { nanoid } from 'nanoid';
+// import { nanoid } from 'nanoid';
 
 export const FilterInput = styled.input`
   width: calc(100% - 12px);

@@ -1,5 +1,5 @@
 import React from 'react';
-import { ContactListItem } from './ContactListItem';
+// import { ContactListItem } from './ContactListItem';
 import { List, ListItem, ListItemText, DeleteButton } from './ContactList.styled';
 
 export const ContactList = ({ contacts, onDelete }) => {
